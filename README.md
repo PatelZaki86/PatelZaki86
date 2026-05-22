@@ -37,25 +37,7 @@ Current Mission:
 
 ---
 
-# 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PatelZaki86&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelZaki86&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PatelZaki86&theme=radical&hide_border=true&background=0D1117"/>
-
-</div>
 
 ---
 

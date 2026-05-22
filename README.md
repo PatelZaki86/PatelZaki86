@@ -6,7 +6,7 @@
 
 # 🕷️ Hey, I'm Zaki Patel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF003C&center=true&vCenter=true&width=900&lines=AI+%26+ML+Engineer;Future+Cloud+Architect;Building+Agentic+AI+Systems;Spider-Verse+Developer+🕸️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF003C&center=true&vCenter=true&width=900&lines=AI+Engineer;Building+Agentic+AI+Systems;Spider-Verse+Developer+🕸️" />
 
 </div>
 

@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=N%2F%2BPd34U&id=3BC3FDE9CD83950A1D52F551C2E12D410E739558&thid=OIP.N_-Pd34URKQ9mv00CG_RwwHaEK&mediaurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp11058487.jpg&exph=2160&expw=3840&q=Amazing+Spider-Man+Logo+Wallpaper+4K&FORM=IRPRST&ck=BA556831737175D7B52E17532078DD3C&selectedIndex=5&itb=0&cw=1721&ch=895&ajaxhist=0&ajaxserp=0" width="100%" />
+<p align="center">
+  <img src="https://wallpapercave.com/wp/wp11058487.jpg" width="100%" style="border-radius:20px;" />
+</p>
 
 # 🕷️ Hey, I'm Zaki Patel
 
@@ -14,7 +16,7 @@
 
 ```yaml
 Name: Zaki Patel
-Location: India
+Location: Pune , India
 Role: AI Engineer
 Focus:
   - Agentic AI

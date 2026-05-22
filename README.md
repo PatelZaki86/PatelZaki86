@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="100%" />
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=N%2F%2BPd34U&id=3BC3FDE9CD83950A1D52F551C2E12D410E739558&thid=OIP.N_-Pd34URKQ9mv00CG_RwwHaEK&mediaurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp11058487.jpg&exph=2160&expw=3840&q=Amazing+Spider-Man+Logo+Wallpaper+4K&FORM=IRPRST&ck=BA556831737175D7B52E17532078DD3C&selectedIndex=5&itb=0&cw=1721&ch=895&ajaxhist=0&ajaxserp=0" width="100%" />
 
 # 🕷️ Hey, I'm Zaki Patel
 
@@ -15,11 +15,11 @@
 ```yaml
 Name: Zaki Patel
 Location: India
-Role: AI & ML Developer
+Role: AI Engineer
 Focus:
   - Agentic AI
-  - Cloud Engineering
-  - DevOps
+  - Cyber Security
+  - AI AUtomation 
   - Generative AI
 Current Mission:
   Building futuristic AI systems
@@ -36,36 +36,6 @@ Current Mission:
 </p>
 
 ---
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PatelZaki86&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelZaki86&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PatelZaki86&theme=radical&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
 
 ---
 
